@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'arifwebserver'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D43E48E6A5DF424CBC65F21456F88BB6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5522B508E99D42D9B26538A20560767D }}
           package: .
